@@ -3,7 +3,7 @@
 return [
     'name'              => 'Better Subscription Search',
     'description'       => 'Look at Cartthrob subs and find the one you need',
-    'version'           => '1.0.0',
+    'version'           => '1.0.1',
     'author'            => 'tripleNERDscore',
     'author_url'        => 'https://triplenerdscore.net',
     'namespace'         => 'TripleNERDscore\BetterSubscriptionSearch',
